@@ -1,6 +1,0 @@
-#EXTM3U
-#EXT-X-VERSION:3
-
-# --- নতুন টিভি চ্যানেল লিঙ্ক ---
-#EXTINF:-1 tvg-name="TV Channel" tvg-logo="", Live Stream
-https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
